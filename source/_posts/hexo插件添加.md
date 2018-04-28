@@ -1,7 +1,7 @@
 ---
 title: hexo插件添加
 date: 2018-04-27 15:29:06
-tags:
+tags: 插件
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=355992&auto=1&height=66"></iframe>
@@ -19,7 +19,7 @@ tags:
   ## yilia主题使用畅言评论系统
 
 
-来一个 有一个域名
+首先要有一个审核过的域名,跳转到github上,否则域名备案过不了
 
 注册[畅言]( http://changyan.kuaizhan.com/)
 
